@@ -4,8 +4,10 @@ phases:
   pre_build:
     commands:
       - mvn clean install
+      - pwd
       - ls
       - pwd
+      - ls
       - echo Logging in to Amazon ECR...
       - aws --version
       - REPOSITORY_URI=762233766053.dkr.ecr.ap-south-1.amazonaws.com/deploytoecs
