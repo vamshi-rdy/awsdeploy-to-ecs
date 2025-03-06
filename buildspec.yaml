@@ -8,6 +8,9 @@ phases:
       - ls
       - pwd
       - ls
+      - cd target
+      - ls
+      - cd..
       - echo Logging in to Amazon ECR...
       - aws --version
       - REPOSITORY_URI=762233766053.dkr.ecr.ap-south-1.amazonaws.com/deploytoecs
