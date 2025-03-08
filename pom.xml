@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechie</groupId>
-	<artifactId>course-service</artifactId>
+	<artifactId>course-service2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aws-demo</name>
 	<description>Simple Spring Boot Application</description>
