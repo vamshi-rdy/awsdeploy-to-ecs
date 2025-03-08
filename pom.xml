@@ -46,7 +46,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>course-service</finalName>
+		<finalName>course-service2</finalName>
 	</build>
 
 </project>
